@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="a">#C0BAAB</color>
+    <color name="b">#FF0303</color>
+    <color name="black">#000000</color>
+    <color name="man1">#272343</color>
+    <color name="man2">#ffffff</color>
+    <color name="man3">#e3f6f5</color>
+    <color name="man4">#bae8e8</color>
+    <color name="woman1">#f54291</color>
+    <color name="woman2">#ff78ae</color>
+    <color name="woman3">#ffa0d2</color>
+    <color name="woman4">#fff8cd</color>
+
+
+
+
+
+
+</resources>
