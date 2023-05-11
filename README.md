@@ -1,4 +1,4 @@
-# espagnol
+# Espagnol
 
 Il s'agit d'une application mobile qui vise à aider les enfants dès leur plus jeune âge à apprendre le vocabulaire
 en espagnol grâce à des leçons, des répétitions, des exercices de prononciation avec l'assistante de google
